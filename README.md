@@ -3,6 +3,12 @@ Cite Extension for Python-Markdown
 
 Wraps the inline content surrounded by three double quotes into `cite` tags.
 
+
+Installation
+------------
+
+    pip install git+git://github.com/aleray/mdx_cite.git
+
 Usage
 -----
 
